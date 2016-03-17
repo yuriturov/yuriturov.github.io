@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header app-header">
+    <img class="app-icon" src=" {{ page.icon }} "/>
+    <h1 class="post-title">
+      {{ page.title }}
+    </h1>
+    <p>
+      {{ page.subtitle }}
+    </p>
+
+    <a href="{{ page.applink }}"><img class="badge" src="/assets/app-store-badge.svg"/></a>
+    <a href="http://audiob.us"><img class="badge" src="/assets/audiobus-badge-input.svg"/></a>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
