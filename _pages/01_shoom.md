@@ -11,4 +11,5 @@ backgroundcolor: "#0e0d0e"
 {:.center}
 ![Shoom](/assets/shoom-screen.png)
 
-It's gonna shoom...
+{:.center}
+Coming shoom...

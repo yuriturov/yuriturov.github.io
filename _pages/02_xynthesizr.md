@@ -5,6 +5,7 @@ subtitle: "Streamlined yet capable 32-step <strong>matrix pattern sequencer/synt
 icon: /assets/xynthesizr-icon.png
 applink: https://itunes.apple.com/app/id720810459?mt=8
 permalink: /xynthesizr/
+backgroundcolor: "#0c0d14"
 ---
 
 {:.center}

@@ -37,3 +37,34 @@ body.shoom {
         margin-right: 10px;
     }
 }
+
+.app-list {
+    margin-top: 50px;
+    margin-left: 0;
+    text-align: center;
+}
+
+.app-list-item {
+    display: inline-block;
+
+    &:not(:last-child) {
+        margin-right: 50px;
+    }
+}
+
+.app-list-link {
+    display: block;
+    margin-top: 5px;
+    font-size: 26px;
+    //text-transform: uppercase;
+    color: $text-color;
+    line-height: $base-line-height;
+
+    &:hover {
+      color: $page-link-hover-color;
+    }
+
+    &:visited {
+      color: $text-color;
+    }
+}
