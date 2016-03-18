@@ -7,7 +7,7 @@ layout: default
     <table class="app-table">
         <tr>
             <th class="app-table-cell" rowspan="3">
-                <img class="app-icon" width="" src=" {{ page.icon }} "/>
+                <img class="app-icon" width="" src="{{ page.icon }}"/>
             </th>
             <th class="app-table-cell">
                 <h1 class="post-title">{{ page.title }}</h1>
@@ -20,7 +20,9 @@ layout: default
         </tr>
         <tr>
             <td class="app-table-cell badges">
+                {% if page.title != "Shoom" %}
                 <a href="{{ page.applink }}"><img class="badge" src="/assets/app-store-badge.svg"/></a>
+                {% endif %}
                 <a href="http://audiob.us"><img class="badge" src="/assets/audiobus-badge-input.svg"/></a>
             </td>
         </tr>
