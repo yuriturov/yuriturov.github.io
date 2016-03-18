@@ -40,7 +40,7 @@ The update is brilliant! Thank you so much. This is beyond dreamy! Wonderful! :-
 ## Features
 
 ### General Features
-* **MIDI** support (including Virtual MIDI) for syncing and sending notes to synths, samplers and * drum machines
+* **MIDI** support (including Virtual MIDI) for syncing and sending notes to synths, samplers and drum machines
 * **Notes to MIDI channel mapping** for driving multiple apps or devices simultaneously
 * **Audiobus** support (see [audiob.us](http://audiob.us) for more information)
 * Background audio support
