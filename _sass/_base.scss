@@ -211,4 +211,12 @@ pre {
             fill: $grey-color;
         }
     }
+
+    &:hover {
+        > svg {
+            path {
+                fill: lighten($grey-color, 100%);
+            }
+        }
+    }
 }

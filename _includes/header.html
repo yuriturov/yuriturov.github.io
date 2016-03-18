@@ -14,9 +14,9 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title and page.title != "Contact" %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% for pageitem in site.pages %}
+          {% if pageitem.title and pageitem.title != "Contact" %}
+          <a class="page-link{% if pageitem.title == page.title %} selected{% endif %}" href="{{ pageitem.url | prepend: site.baseurl }}">{{ pageitem.title }}</a>
           {% endif %}
         {% endfor %}
       </div>

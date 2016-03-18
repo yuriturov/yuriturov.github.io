@@ -20,6 +20,10 @@
     &:visited {
         color: $grey-color-dark;
     }
+
+    &:hover {
+        color: $grey-color;
+    }
 }
 
 .site-nav {
@@ -36,7 +40,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $grey-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -47,6 +51,10 @@
         &:hover {
           color: $page-link-hover-color;
         }
+    }
+
+    .page-link.selected {
+        color: lighten($text-color, 100%);
     }
 
     @include media-query($on-palm) {
