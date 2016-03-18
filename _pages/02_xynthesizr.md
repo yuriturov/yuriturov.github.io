@@ -17,7 +17,9 @@ Create patterns and modify them in real time, or let Xynthesizr do it for you us
 ## Videos
 
 {:.center-block}
+<div class="video-container">
 <iframe width="640" height="480" src="http://www.youtube.com/embed/Z9qpdcRSDGg?list=PLJaQXsZjUetRLy6NflRma-tMqqFGblzw2" frameborder="0" allowfullscreen> </iframe>
+</div>
 
 
 ## User Reviews
