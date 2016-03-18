@@ -4,16 +4,27 @@ layout: default
 <article class="post">
 
   <header class="post-header app-header">
-    <img class="app-icon" src=" {{ page.icon }} "/>
-    <h1 class="post-title">
-      {{ page.title }}
-    </h1>
-    <p>
-      {{ page.subtitle }}
-    </p>
-
-    <a href="{{ page.applink }}"><img class="badge" src="/assets/app-store-badge.svg"/></a>
-    <a href="http://audiob.us"><img class="badge" src="/assets/audiobus-badge-input.svg"/></a>
+    <table class="app-table">
+        <tr>
+            <th class="app-table-cell" rowspan="3">
+                <img class="app-icon" width="" src=" {{ page.icon }} "/>
+            </th>
+            <th class="app-table-cell">
+                <h1 class="post-title">{{ page.title }}</h1>
+            </th>
+        </tr>
+        <tr>
+            <td class="app-table-cell">
+              <p>{{ page.subtitle }}</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="app-table-cell badges">
+                <a href="{{ page.applink }}"><img class="badge" src="/assets/app-store-badge.svg"/></a>
+                <a href="http://audiob.us"><img class="badge" src="/assets/audiobus-badge-input.svg"/></a>
+            </td>
+        </tr>
+    </table>
   </header>
 
   <div class="post-content">
