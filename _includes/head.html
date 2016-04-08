@@ -18,8 +18,8 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"/>
   <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle | strip_html | escape }}{% else %}{{ site.description | escape }}{% endif %}"/>
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
-  {% if page.icon-large %}
-    <meta property="og:image" content="{{ page.icon-large | prepend: site.baseurl | prepend: site.url }}"/>
+  {% if page.preview-image %}
+    <meta property="og:image" content="{{ page.preview-image | prepend: site.baseurl | prepend: site.url }}"/>
   {% endif %}
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
