@@ -9,8 +9,8 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"/>
   <meta property="og:description" content="{{ page.subtitle | strip_html }}"/>
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
-  {% if page.icon2x %}
-    <meta property="og:image" content="{{ page.icon2x | prepend: site.baseurl | prepend: site.url }}"/>
+  {% if page.largeicon %}
+    <meta property="og:image" content="{{ page.largeicon | prepend: site.baseurl | prepend: site.url }}"/>
   {% endif %}
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
