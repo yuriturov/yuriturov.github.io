@@ -18,7 +18,7 @@ Create patterns and modify them in real time, or let Xynthesizr do it for you us
 
 {:.center-block}
 <div class="video-container">
-<iframe width="640" height="480" src="http://www.youtube.com/embed/Z9qpdcRSDGg?list=PLJaQXsZjUetRLy6NflRma-tMqqFGblzw2" frameborder="0" allowfullscreen> </iframe>
+<iframe width="740" height="555" src="http://www.youtube.com/embed/Z9qpdcRSDGg?list=PLJaQXsZjUetRLy6NflRma-tMqqFGblzw2" frameborder="0" allowfullscreen> </iframe>
 </div>
 
 
@@ -39,16 +39,17 @@ The update is brilliant! Thank you so much. This is beyond dreamy! Wonderful! :-
 
 ## Features
 
-### General Features
+### General features
 * **MIDI** support (including Virtual MIDI) for syncing and sending notes to synths, samplers and drum machines
 * **Notes to MIDI channel mapping** for driving multiple apps or devices simultaneously
-* **Audiobus** support (see [audiob.us](http://audiob.us) for more information)
+* **Audiobus 2** support (see [audiob.us](http://audiob.us) for more information)
+* Inter-App Audio support
 * Background audio support
 * 40+ bundled presets
 * Save your own **patterns and presets**
 * **Record** and export audio via AudioCopy, AudioShare, SoundCloud®, Mail and iTunes file sharing
 
-### Sequencer Features
+### Sequencer features
 * **Gestures** to easily edit patterns on-the-fly
 * [Conway's Game of] **Life-like cellular automata** and **probability-based pattern morphing**
 * Limit pattern morphing to a **selected area** of the grid

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="148 0 840 640" enable-background="new 148 0 840 640" xml:space="preserve">
+<g id="Layer_2" display="none">
+	<rect display="inline" stroke="#FFFFFF" stroke-miterlimit="10" width="1136" height="640"/>
+</g>
+<g id="Layer_1">
+	<path fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M778.4,100.7h21c11.6,0,21,9.4,21,21v273.5c0,11.6-9.4,21-21,21H336.6c-11.6,0-21-9.4-21-21V121.8c0-11.6,9.4-21,21-21h21"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M778.4,58.6c0,0-42.5-21-105.2-21S568,58.6,568,58.6v326.1c0,0,42.1-21,105.2-21s105.2,21,105.2,21L778.4,58.6L778.4,58.6z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M568,58.6c0,0-42.5-21-105.2-21s-105.2,21-105.2,21v326.1c0,0,42.1-21,105.2-21s105.2,21,105.2,21V58.6z"/>
+	<path fill="#FFFFFF" d="M586.9,411.1c0,10.4-8.5,18.9-18.9,18.9s-18.9-8.5-18.9-18.9H586.9z"/>
+	<text transform="matrix(1 0 0 1 196 608)" fill="#FFFFFF" font-family="'Lato-Light'" font-size="128">USER GUIDE</text>
+</g>
+</svg>

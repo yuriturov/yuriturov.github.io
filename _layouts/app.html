@@ -24,6 +24,9 @@ layout: default
                 <a href="{{ page.applink }}"><img class="badge" src="/assets/app-store-badge.svg"/></a>
                 {% endif %}
                 <a href="http://audiob.us"><img class="badge" src="/assets/audiobus-badge-input.svg"/></a>
+                {% if page.usermanual %}
+                <a href="{{ page.usermanual }}"><img class="badge" src="/assets/user-manual-icon.svg"/></a>
+                {% endif %}
             </td>
         </tr>
     </table>
