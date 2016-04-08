@@ -3,7 +3,8 @@ layout: app
 title: Shoom
 subtitle: "Full audio range triple-synth playground for iPad\n<span style=\"font-size: 0.9em; color: #888888;\">Coming soon to the App Store...</span>"
 icon: /assets/shoom-icon.png
-largeicon: /assets/shoom-icon-large.png
+icon-large: /assets/shoom-icon-large.png
+icon-large-square: /assets/shoom-icon-large-square.png
 #usermanual: /assets/ShoomUserGuide-1.0.pdf
 applink: https://itunes.apple.com/app/id1086363141?mt=8
 permalink: /shoom/
