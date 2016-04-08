@@ -10,13 +10,13 @@
   <meta name="twitter:site" content="{{ site.twitter | prepend: '@' }}"/>
   <meta name="twitter:creator" content="{{ site.twitter | prepend: '@' }}"/>
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"/>
-  <meta name="twitter:description" content="{% if page.title %}{{ page.subtitle | strip_html | escape }}{% else %}{{ site.description | escape }}{% endif %}"/>
+  <meta name="twitter:description" content="{% if page.subtitle %}{{ page.subtitle | strip_html | escape }}{% else %}{{ site.description | escape }}{% endif %}"/>
   {% if page.icon-large-square %}
     <meta name="twitter:image" content="{{ page.icon-large-square | prepend: site.baseurl | prepend: site.url }}"/>
   {% endif %}
 
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"/>
-  <meta property="og:description" content="{{ page.subtitle | strip_html }}"/>
+  <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle | strip_html | escape }}{% else %}{{ site.description | escape }}{% endif %}"/>
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
   {% if page.icon-large %}
     <meta property="og:image" content="{{ page.icon-large | prepend: site.baseurl | prepend: site.url }}"/>
