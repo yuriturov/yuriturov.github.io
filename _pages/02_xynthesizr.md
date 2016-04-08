@@ -3,6 +3,7 @@ layout: app
 title: Xynthesizr
 subtitle: "Streamlined yet capable 32-step <strong>matrix pattern sequencer/synthesizer</strong> with <strong>generative features</strong> for iPad and iPhone"
 icon: /assets/xynthesizr-icon.png
+icon2x: /assets/xynthesizr-icon@2x.png
 applink: https://itunes.apple.com/app/id720810459?mt=8
 permalink: /xynthesizr/
 backgroundcolor: "#0c0d14"
