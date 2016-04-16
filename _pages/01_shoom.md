@@ -31,6 +31,7 @@ Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical s
 *	**Three** independent synthesizers
 *	**20–20,000 Hz** pitch range
 *	Slide freely or snap notes to scale with adjustable glide rate
+*	Set notes to infinite hold using a dedicated toggle
 *	**Microtonal** and **non-octave repeating** scales support
 *	**MIDI CC** control and **clock** sync
 *	**Inter-App Audio** and **Audiobus 2** support
