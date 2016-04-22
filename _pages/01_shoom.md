@@ -33,7 +33,7 @@ Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical s
 *	Slide freely or snap notes to scale with adjustable glide rate
 *	Set notes to infinite hold using a dedicated toggle
 *	**Microtonal** and **non-octave repeating** scales support
-*	**MIDI CC** control and **clock** sync
+*	**MIDI CC** control and **clock** sync *(MIDI note input coming in a later update)*
 *	**Inter-App Audio** and **Audiobus 2** support
 *	60+ bundled presets
 *	Import and export of presets and CC maps
@@ -49,3 +49,19 @@ Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical s
 *	Y axis position as modulation source with up to 3 of 15 simultaneously assignable parameters
 *	Note pan randomizer
 *	Built-in stereo delay and reverb effects
+
+## Mentions
+
+* [AudioNewsRoom](http://audionewsroom.net/2016/04/shoom-review-a-new-ipad-synth-with-plenty-of-va-va-voom.html){:target="_blank"} review
+* [haQ attaQ](http://thesoundtestroom.com/shoom/){:target="_blank"} demo
+* [Thesoundtestroom](http://thesoundtestroom.com/shoom-synthesizer-demo-for-ipad-brilliant-for-soundscapes-and-drones/){:target="_blank"} demo
+* [Synth Anatomy](http://www.synthanatomy.com/2016/04/shoom-for-ipad-is-released.html){:target="_blank"} demo
+* [iPad Loops](http://ipadloops.com/yuri-turov-shoom-ipad-factory-presets/){:target="_blank"} demo
+* [Synthtopia](http://www.synthtopia.com/content/2016/04/17/new-ipad-synth-shoom-offers-three-synth-engines-microtonal-support/){:target="_blank"}
+* [Discchord](http://discchord.com/blog/2016/4/16/shoom-by-yuri-turov.html){:target="_blank"}
+* [Sonic State](http://www.sonicstate.com/news/2016/04/18/triple-synth-musical-playground-for-ipad-/){:target="_blank"}
+* [MusicRadar](http://www.musicradar.com/news/tech/shoom-is-an-ios-synth-that-wants-you-to-get-out-of-your-harmonic-comfort-zone-637088){:target="_blank"}
+* [KVR Audio](http://www.kvraudio.com/news/yuri-turov-launches-shoom-synthesizer-for-ipad-33280){:target="_blank"}
+* [PalmSounds](https://palmsounds.net/2016/04/16/shoom-synthesizer-has-arrived/){:target="_blank"}
+* [Beat.de](http://www.beat.de/news/shoom-ungewoehnlichen-toenen-10063514.html){:target="_blank"}
+* [MatrixSynth](http://www.matrixsynth.com/2016/04/shoom-synthesizer-for-ipad-released.html){:target="_blank"}
