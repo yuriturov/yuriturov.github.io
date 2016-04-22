@@ -65,3 +65,4 @@ Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical s
 * [PalmSounds](https://palmsounds.net/2016/04/16/shoom-synthesizer-has-arrived/){:target="_blank"}
 * [Beat.de](http://www.beat.de/news/shoom-ungewoehnlichen-toenen-10063514.html){:target="_blank"}
 * [MatrixSynth](http://www.matrixsynth.com/2016/04/shoom-synthesizer-for-ipad-released.html){:target="_blank"}
+* [RouteNote](http://routenote.com/blog/shoom-gives-you-a-triple-synth-playground-for-ipad/){:target="_blank"}
