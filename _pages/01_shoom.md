@@ -52,7 +52,10 @@ Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical s
 
 ## Mentions
 
+* [Music App Blog](http://musicappblog.com/shoom-review/){:target="_blank"} review
+* [SoundBytes](http://soundbytesmag.net/music-tablets-shoom-yuri-turov/){:target="_blank"} review
 * [AudioNewsRoom](http://audionewsroom.net/2016/04/shoom-review-a-new-ipad-synth-with-plenty-of-va-va-voom.html){:target="_blank"} review
+* [SmiteMatter](https://smitematter.com/2016/05/09/shoom-synthesizer-app-review/){:target="_blank"} review
 * [AppGemeinde](http://www.appgemeinde.de/2016/04/review-shoom-synthesizer-fuer-atmosphaerische-flaechen-37878/){:target="_blank"} review (German)
 * [haQ attaQ](http://thesoundtestroom.com/shoom/){:target="_blank"} demo
 * [Thesoundtestroom](http://thesoundtestroom.com/shoom-synthesizer-demo-for-ipad-brilliant-for-soundscapes-and-drones/){:target="_blank"} demo
