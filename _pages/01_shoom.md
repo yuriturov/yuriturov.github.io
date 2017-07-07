@@ -17,6 +17,14 @@ custom-stylesheet: shoom.css
 
 Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical synthesizers in one app. It is capable of playing any pitch in the audible range and doesn’t necessarily limit you to a particular scale. Nevertheless, if you do want to use scales, Shoom can deliver anything from common 12-tone equal tempered to xenharmonic and microtonal.
 
+> "It only took me about twenty minutes of playing around with this app before I fell in love with it. It’s really well made and the overall sound of Shoom speaks to the experimental side of me." _- Jakob Haq, haQ attaQ_
+>
+> "It’s a bargain, it sounds fantastic, and it’s fun. A no brainer purchase." _- David A Israel, SmiteMatter_
+>
+> "...if you like abstract, ambient, electronic music and the occasional dose of soundscapes and just plain weird noises, then Shoom is going to be very much for you." _- John Walden, musicappblog.com_
+>
+> "At that price, and with this much power, it’s just about the most musical fun you can have with any app around." _- Warren Burt, SoundBytes Magazine_
+
 ## Video
 
 {:.center-block}
