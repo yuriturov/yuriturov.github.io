@@ -14,8 +14,17 @@ backgroundcolor: "#0c0d14"
 {:.center}
 ![Xynthesizr](/assets/xynthesizr-screens.png)
 
-Whether you are a musician who wants to get inspired and realize their ideas, or a person who enjoys easily creating electronic tunes, this app is for you.
 Create patterns and modify them in real time, or let Xynthesizr do it for you using its **morphing algorithms**. Change **scale** and **key**, or **transpose** within a scale on-the-fly. Tweak parameters of the **internal synthesizer** or output **MIDI** to your favorite apps and devices. Record and share your creations.
+
+> "This really is a lot of fun and, hooked up to a synth like Thor or Z3TA+, there are plenty of creative options to be explored here." - _John Walden, musicappblog.com_
+>
+> "Xynthesizr is about the only tone matrix app that can keep up with my short attention span. There are so many ways to shape, and constantly reshape, your sound... There's a lot to play with here!" - _Tim Webb, discchord.com_
+>
+> "Overall, Xynthesizr is a very interesting instrument that is fun to play and lovely to look at." - _Tom Flint, Sound on Sound_
+>
+> "Xynthesizr holds a lot of creative potential, and between a user friendly interface, a practical onboard synth, inspiring generative features, and solid MIDI implementation, this is a useful tool that can really benefit a wide range of iOS musicians." - _Chip Boaz, iosmusicandyou.com_
+>
+> "...one of my absolute go-to apps" - _Sean Garland, iosmars.com_
 
 ## Videos
 
@@ -24,22 +33,6 @@ Create patterns and modify them in real time, or let Xynthesizr do it for you us
 <iframe width="740" height="555" src="http://www.youtube.com/embed/Z9qpdcRSDGg?list=PLJaQXsZjUetRLy6NflRma-tMqqFGblzw2" frameborder="0" allowfullscreen> </iframe>
 </div>
 
-
-## User Reviews
-
-**Fantastic update!** ★★★★★
-Along with the multiple other new or improved features, the addition of MIDI has made this a must have app! The very powerful and inspiring random/generative engine is paired with a surprisingly well specified synthesizer and provide far too much fun for the price!
-
-**Must have for iOS music** ★★★★★
-Absolutely awesome app that just got better. Create stunning sequences. Great presets to start with. Midi to favorite synths for more sounds. Just get it.
-
-**Amazing** ★★★★★
-This is now my go to software for starting a new track. I use it to build a few melodies, and then use that as a base for my new track. Love it. Great job
-
-**Brilliant** ★★★★★
-The update is brilliant! Thank you so much. This is beyond dreamy! Wonderful! :-). I am so happy MIDI has been included. Synchronicity...here we come. Cheers!
-
-
 ## Features
 
 ### General features
@@ -47,7 +40,6 @@ The update is brilliant! Thank you so much. This is beyond dreamy! Wonderful! :-
 * **Notes to MIDI channel mapping** for driving multiple apps or devices simultaneously
 * **Audiobus 2** support (see [audiob.us](http://audiob.us) for more information)
 * Inter-App Audio support
-* Background audio support
 * 40+ bundled presets
 * Save your own **patterns and presets**
 * **Record** and export audio via AudioCopy, AudioShare, SoundCloud®, Mail and iTunes file sharing
@@ -62,12 +54,11 @@ The update is brilliant! Thank you so much. This is beyond dreamy! Wonderful! :-
 * An option to tie consecutive notes of same pitch to make longer notes
 * Shift and flip patterns
 * **Create** and use your own **scales** and **Life-like cellular automata rules**
-* Extended range (26 notes for 4-inch screen devices, 22 notes for 3.5-inch)
 * Color-coded octaves
 
 ### Synthesizer and FX features
 * 32-bit floating point sound engine
-* 16 voice polyphony (12 on iPhone 3GS)
+* 16 voice polyphony
 * 2 antialiased oscillators per voice
 * 4 waveforms (sine, triangle, sawtooth, square)
 * 4-pole (24 dB/oct) low-pass resonant filter

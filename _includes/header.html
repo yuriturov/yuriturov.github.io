@@ -4,7 +4,11 @@
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-    <nav class="site-nav">      
+    <div class="contacts">
+      {% include contacts.html %}
+    </div>
+
+    <nav class="site-nav">
 
       <div class="trigger">
         {% for pageitem in site.pages %}
@@ -12,10 +16,6 @@
           <a class="page-link{% if pageitem.title == page.title %} selected{% endif %}" href="{{ pageitem.url | prepend: site.baseurl }}">{{ pageitem.title }}</a>
           {% endif %}
         {% endfor %}
-      </div>
-
-      <div class="contacts">
-        {% include contacts.html %}
       </div>
     </nav>
 

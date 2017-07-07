@@ -6,7 +6,7 @@ layout: default
   <header class="post-header app-header">
     <table class="app-table">
         <tr>
-            <th class="app-table-cell" rowspan="3">
+            <th class="app-table-cell app-icon-cell" rowspan="3">
                 <img class="app-icon" width="" src="{{ page.icon }}"/>
             </th>
             <th class="app-table-cell">
@@ -21,11 +21,14 @@ layout: default
         <tr>
             <td class="app-table-cell badges">
                 {% if true %}
-                <a href="{{ page.applink }}"><img class="badge" src="/assets/app-store-badge.svg"/></a>
+                <a class="badge" href="{{ page.applink }}"><img src="/assets/app-store-badge.svg"/></a>
                 {% endif %}
-                <a href="http://audiob.us"><img class="badge" src="/assets/audiobus-badge-input.svg"/></a>
+                <a class="badge" href="http://audiob.us"><img src="/assets/audiobus-badge-input.svg"/></a>
+                {% if.page.ableton-link-compatible %}
+                <a class="badge" href="http://www.ableton.com/link"><img src="/assets/ableton-link-badge.svg"/></a>
+                {% endif %}
                 {% if page.usermanual %}
-                <a href="{{ page.usermanual }}"><img class="badge" src="/assets/user-manual-icon.svg"/></a>
+                <a class="badge" href="{{ page.usermanual }}"><img src="/assets/user-manual-icon.svg"/></a>
                 {% endif %}
             </td>
         </tr>

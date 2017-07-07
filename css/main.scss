@@ -27,11 +27,13 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 $page-link-hover-color: #ffffff;
 
+$header-line-height: 34px;
+
 // Width of the content area
 $content-width:    800px;
-$min-width:        540px; 
+$min-width:        320px;
 
-$on-palm:          000px;
+$on-palm:          464px;
 $on-laptop:        800px;
 
 
