@@ -16,15 +16,15 @@ backgroundcolor: "#0c0d14"
 
 Create patterns and modify them in real time, or let Xynthesizr do it for you using its **morphing algorithms**. Change **scale** and **key**, or **transpose** within a scale on-the-fly. Tweak parameters of the **internal synthesizer** or output **MIDI** to your favorite apps and devices. Record and share your creations.
 
-> "This really is a lot of fun and, hooked up to a synth like Thor or Z3TA+, there are plenty of creative options to be explored here." - _John Walden, musicappblog.com_
+> "This really is a lot of fun and, hooked up to a synth like Thor or Z3TA+, there are plenty of creative options to be explored here." _- John Walden, musicappblog.com_
 >
-> "Xynthesizr is about the only tone matrix app that can keep up with my short attention span. There are so many ways to shape, and constantly reshape, your sound... There's a lot to play with here!" - _Tim Webb, discchord.com_
+> "Xynthesizr is about the only tone matrix app that can keep up with my short attention span. There are so many ways to shape, and constantly reshape, your sound... There's a lot to play with here!" _- Tim Webb, discchord.com_
 >
-> "Overall, Xynthesizr is a very interesting instrument that is fun to play and lovely to look at." - _Tom Flint, Sound on Sound_
+> "Overall, Xynthesizr is a very interesting instrument that is fun to play and lovely to look at." _- Tom Flint, Sound on Sound_
 >
-> "Xynthesizr holds a lot of creative potential, and between a user friendly interface, a practical onboard synth, inspiring generative features, and solid MIDI implementation, this is a useful tool that can really benefit a wide range of iOS musicians." - _Chip Boaz, iosmusicandyou.com_
+> "Xynthesizr holds a lot of creative potential, and between a user friendly interface, a practical onboard synth, inspiring generative features, and solid MIDI implementation, this is a useful tool that can really benefit a wide range of iOS musicians." _- Chip Boaz, iosmusicandyou.com_
 >
-> "...one of my absolute go-to apps" - _Sean Garland, iosmars.com_
+> "...one of my absolute go-to apps" _- Sean Garland, iosmars.com_
 
 ## Videos
 
