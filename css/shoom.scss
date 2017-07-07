@@ -1,0 +1,15 @@
+---
+# Shoom custom stylesheet
+---
+@charset "utf-8";
+
+$background-color: #0e0d0e;
+
+html, body {
+  background-color: $background-color;
+}
+
+blockquote {
+  background-color: lighten($background-color, 8%);
+  border-left-color: lighten($background-color, 30%);
+}

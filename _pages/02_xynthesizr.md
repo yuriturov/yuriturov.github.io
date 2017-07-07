@@ -8,7 +8,7 @@ icon-large-square: /assets/xynthesizr-icon-large-square.png
 preview-image: /assets/xynthesizr-preview.png
 applink: https://itunes.apple.com/app/id720810459?mt=8
 permalink: /xynthesizr/
-backgroundcolor: "#0c0d14"
+custom-stylesheet: xynthesizr.css
 ---
 
 {:.center}

@@ -9,7 +9,7 @@ preview-image: /assets/shoom-preview.jpg
 usermanual: /assets/ShoomUserGuide-1.0.pdf
 applink: https://itunes.apple.com/app/id1086363141?mt=8
 permalink: /shoom/
-backgroundcolor: "#0e0d0e"
+custom-stylesheet: shoom.css
 ---
 
 {:.center}
