@@ -6,7 +6,9 @@ icon: /assets/xynthesizr-icon.png
 icon-large: /assets/xynthesizr-icon-large.png
 icon-large-square: /assets/xynthesizr-icon-large-square.png
 preview-image: /assets/xynthesizr-preview.png
+usermanual: /assets/XynthesizrUserGuide-1.5.pdf
 applink: https://itunes.apple.com/app/id720810459?mt=8
+ableton-link-compatible: yes
 permalink: /xynthesizr/
 custom-stylesheet: xynthesizr.css
 ---
@@ -38,7 +40,8 @@ Create patterns and modify them in real time, or let Xynthesizr do it for you us
 ### General features
 * **MIDI** support (including Virtual MIDI) for syncing and sending notes to synths, samplers and drum machines
 * **Notes to MIDI channel mapping** for driving multiple apps or devices simultaneously
-* **Audiobus 2** support (see [audiob.us](http://audiob.us) for more information)
+* **Ableton Link** support (see [ableton.com/link](https://www.ableton.com/link/) for more information)
+* **Audiobus 3** support (see [audiob.us](http://audiob.us) for more information)
 * Inter-App Audio support
 * 40+ bundled presets
 * Save your own **patterns and presets**
