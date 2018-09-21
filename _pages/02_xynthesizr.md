@@ -6,7 +6,7 @@ icon: /assets/xynthesizr-icon.png
 icon-large: /assets/xynthesizr-icon-large.png
 icon-large-square: /assets/xynthesizr-icon-large-square.png
 preview-image: /assets/xynthesizr-preview.png
-usermanual: /assets/XynthesizrUserGuide-1.5.pdf
+usermanual: /assets/XynthesizrUserGuide-1.6.pdf
 applink: https://itunes.apple.com/app/id720810459?mt=8
 ableton-link-compatible: yes
 permalink: /xynthesizr/
