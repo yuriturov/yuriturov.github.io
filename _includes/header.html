@@ -12,7 +12,7 @@
 
       <div class="trigger">
         {% for pageitem in site.pages %}
-          {% if pageitem.title and pageitem.title != "Contact" %}
+          {% if pageitem.title and pageitem.include-in-navbar != false %}
           <a class="page-link{% if pageitem.title == page.title %} selected{% endif %}" href="{{ pageitem.url | prepend: site.baseurl }}">{{ pageitem.title }}</a>
           {% endif %}
         {% endfor %}
