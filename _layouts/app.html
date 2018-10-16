@@ -3,36 +3,26 @@ layout: default
 ---
 <article class="post">
 
-  <header class="post-header app-header">
-    <table class="app-table">
-        <tr>
-            <th class="app-table-cell app-icon-cell" rowspan="3">
-                <img class="app-icon" width="" src="{{ page.icon }}"/>
-            </th>
-            <th class="app-table-cell">
-                <h1 class="post-title">{{ page.title }}</h1>
-            </th>
-        </tr>
-        <tr>
-            <td class="app-table-cell">
-              <p>{{ page.subtitle | newline_to_br }}</p>
-            </td>
-        </tr>
-        <tr>
-            <td class="app-table-cell badges">
-                {% if true %}
-                <a class="badge" href="{{ page.applink }}"><img src="/assets/app-store-badge.svg"/></a>
-                {% endif %}
-                <a class="badge" href="http://audiob.us"><img src="/assets/audiobus-badge-input.svg"/></a>
-                {% if.page.ableton-link-compatible %}
-                <a class="badge" href="http://www.ableton.com/link"><img src="/assets/ableton-link-badge.svg"/></a>
-                {% endif %}
-                {% if page.usermanual %}
-                <a class="badge" href="{{ page.usermanual }}"><img src="/assets/user-manual-icon.svg"/></a>
-                {% endif %}
-            </td>
-        </tr>
-    </table>
+  <header class="post-header app-header mx-auto">
+    <div class="media mb-4">
+      <img class="mt-2 mr-4" src="{{ page.icon }}" alt="{{ page.title }} Icon">
+      <div class="app-header-body media-body d-flex flex-column align-items-start">
+        <h1 class="my-0">{{ page.title }}</h1>
+        <p class="mb-0">{{ page.subtitle | newline_to_br }}</p>
+        <div class="app-badges mt-auto">
+          {% if true %}
+          <a class="app-badge" href="{{ page.applink }}"><img src="/assets/app-store-badge.svg"/></a>
+          {% endif %}
+          <a class="app-badge" href="http://audiob.us"><img src="/assets/audiobus-badge-input.svg"/></a>
+          {% if page.ableton-link-compatible %}
+          <a class="app-badge" href="http://www.ableton.com/link"><img src="/assets/ableton-link-badge.svg"/></a>
+          {% endif %}
+          {% if page.usermanual %}
+          <a class="app-badge" href="{{ page.usermanual }}"><img src="/assets/user-manual-icon.svg"/></a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
   </header>
 
   <div class="post-content">

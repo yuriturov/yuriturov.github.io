@@ -3,16 +3,17 @@ layout: default
 ---
 
 <div class="home">
-
-  <ul class="app-list">
+  <ul class="list-unstyled">
     {% for page in site.pages %}
-      {% if page.icon %}
-        <li class="app-list-item">
-          <a href="{{ page.permalink | prepend: site.baseurl }}"><img src="{{ page.icon }}"/></a><br/>
-          <a class="app-list-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% if page.icon-small %}
+        <li class="media my-4">
+          <a href="{{ page.permalink | prepend: site.baseurl }}"><img class="mr-3" height="80" src="{{ page.icon-small }}"/></a>
+          <div class="media-body">
+            <h3 class="mt-0 mb-1"><a class="app-list-link" href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a></h3>
+            <p>{{ page.subtitle }}</p>
+          </div>
         </li>
       {% endif %}
     {% endfor %}
   </ul>
-
 </div>

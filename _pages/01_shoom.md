@@ -3,6 +3,7 @@ layout: app
 title: Shoom
 subtitle: "Full audio range triple-synth playground for iPad"
 icon: /assets/shoom-icon.png
+icon-small: /assets/shoom-icon-small.png
 icon-large: /assets/shoom-icon-large.png
 icon-large-square: /assets/shoom-icon-large-square.png
 preview-image: /assets/shoom-preview.jpg
@@ -12,24 +13,28 @@ permalink: /shoom/
 custom-stylesheet: shoom.css
 ---
 
-{:.center}
-![Shoom](/assets/shoom-screen.png)
+{::nomarkdown}
+<img src="/assets/shoom-screen.png" class="img-fluid d-block mx-auto mb-3" alt="Shoom">
+{:/}
 
 Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical synthesizers in one app. It is capable of playing any pitch in the audible range and doesn’t necessarily limit you to a particular scale. Nevertheless, if you do want to use scales, Shoom can deliver anything from common 12-tone equal tempered to xenharmonic and microtonal.
 
-> "It only took me about twenty minutes of playing around with this app before I fell in love with it. It’s really well made and the overall sound of Shoom speaks to the experimental side of me." _- Jakob Haq, haQ attaQ_
+> "It only took me about twenty minutes of playing around with this app before I fell in love with it. It’s really well made and the overall sound of Shoom speaks to the experimental side of me."   
+> _- Jakob Haq, haQ attaQ_
 >
-> "It’s a bargain, it sounds fantastic, and it’s fun. A no brainer purchase." _- David A Israel, SmiteMatter_
+> "It’s a bargain, it sounds fantastic, and it’s fun. A no brainer purchase."   
+> _- David A Israel, SmiteMatter_
 >
-> "...if you like abstract, ambient, electronic music and the occasional dose of soundscapes and just plain weird noises, then Shoom is going to be very much for you." _- John Walden, musicappblog.com_
+> "...if you like abstract, ambient, electronic music and the occasional dose of soundscapes and just plain weird noises, then Shoom is going to be very much for you."   
+> _- John Walden, musicappblog.com_
 >
-> "At that price, and with this much power, it’s just about the most musical fun you can have with any app around." _- Warren Burt, SoundBytes Magazine_
+> "At that price, and with this much power, it’s just about the most musical fun you can have with any app around."   
+> _- Warren Burt, SoundBytes Magazine_
 
 ## Video
 
-{:.center-block}
-<div class="video-container">
-<iframe width="740" height="555" src="https://www.youtube.com/embed/cDOn52FOJAQ?list=PLJaQXsZjUetTkk4nBcxQ_PM0eUbXLsl_L" frameborder="0" allowfullscreen> </iframe>
+<div class="embed-responsive embed-responsive-4by3 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cDOn52FOJAQ?list=PLJaQXsZjUetTkk4nBcxQ_PM0eUbXLsl_L" allowfullscreen></iframe>
 </div>
 
 ## Features

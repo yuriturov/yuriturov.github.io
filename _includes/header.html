@@ -1,24 +1,35 @@
 <header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <div class="contacts">
-      {% include contacts.html %}
-    </div>
-
-    <nav class="site-nav">
-
-      <div class="trigger">
-        {% for pageitem in site.pages %}
-          {% if pageitem.title and pageitem.include-in-navbar != false %}
-          <a class="page-link{% if pageitem.title == page.title %} selected{% endif %}" href="{{ pageitem.url | prepend: site.baseurl }}">{{ pageitem.title }}</a>
-          {% endif %}
-        {% endfor %}
+  <nav class="navbar navbar-dark navbar-expand-sm justify-content-center">
+    <div class="container">
+      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-between align-items-center" id="navbarNav">
+        <ul class="navbar-nav mx-auto text-center">
+          {% for pageitem in site.pages %}
+            {% if pageitem.title and pageitem.include-in-navbar != false %}
+            <li class="nav-item{% if pageitem.title == page.title %} active{% endif %}">
+              <a class="nav-link" href="{{ pageitem.url | prepend: site.baseurl }}">{{ pageitem.title }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <ul class="nav navbar-nav flex-row justify-content-center flex-nowrap">
+          <li class="nav-item">
+            <a class="nav-link px-2" href="mailto:contact@yuriturov.com"><span class="icon">{% include icon-mail.svg %}</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-2" href="https://twitter.com/{{ site.twitter }}" target="_blank"><span class="icon">{% include icon-twitter.svg %}</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-2" href="https://facebook.com/yuriturov.apps" target="_blank"><span class="icon">{% include icon-facebook.svg %}</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-2" href="https://youtube.com/yuriturov" target="_blank"><span class="icon">{% include icon-youtube.svg %}</span></a>
+          </li>
+        </ul>
       </div>
-    </nav>
-
-  </div>
-
+    </div>
+  </nav>
 </header>
