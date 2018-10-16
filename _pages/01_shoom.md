@@ -48,8 +48,10 @@ Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical s
 *	Set notes to infinite hold using a dedicated toggle
 *	**Microtonal** and **non-octave repeating** scales support
 *	**MIDI CC** control and **clock** sync *(MIDI note input coming in a later update)*
-*	**Inter-App Audio** and **Audiobus 2** support
-*	60+ bundled presets
+*	**Inter-App Audio** support
+*	**Audiobus 3** support (including Audiobus MIDI)
+*	**Ableton Link** support
+*	80+ bundled presets
 *	Import and export of presets and CC maps
 
 ### Synthesizer engine features
