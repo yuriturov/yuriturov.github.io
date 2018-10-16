@@ -22,9 +22,9 @@
   <meta property="og:image" content="{{ page.preview-image | prepend: site.baseurl | prepend: site.url }}"/>
   {% endif %}
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url }}">
   {% if page.custom-stylesheet %}
-  <link rel="stylesheet" href="{{ page.custom-stylesheet | prepend: "/css/" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ page.custom-stylesheet | prepend: "/css/" | prepend: site.baseurl | prepend: site.url }}">
   {% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
