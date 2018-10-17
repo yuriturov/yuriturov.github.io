@@ -15,7 +15,7 @@ custom-stylesheet: shoom.css
 ---
 
 {::nomarkdown}
-<img src="/assets/shoom-screen.png" class="img-fluid d-block mx-auto mb-3" alt="Shoom">
+<img src="/assets/shoom-screen.png" data-rjs="2" class="img-fluid d-block mx-auto mb-3" alt="Shoom">
 {:/}
 
 Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical synthesizers in one app. It is capable of playing any pitch in the audible range and doesn’t necessarily limit you to a particular scale. Nevertheless, if you do want to use scales, Shoom can deliver anything from common 12-tone equal tempered to xenharmonic and microtonal.

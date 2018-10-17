@@ -7,7 +7,7 @@ layout: default
     {% for page in site.pages %}
       {% if page.icon-small %}
         <li class="media my-4">
-          <a href="{{ page.permalink | prepend: site.baseurl }}"><img class="mr-3" height="80" src="{{ page.icon-small }}"/></a>
+          <a href="{{ page.permalink | prepend: site.baseurl }}"><img class="mr-3" height="80" src="{{ page.icon-small }}" data-rjs="2"/></a>
           <div class="media-body">
             <h3 class="mt-0 mb-1"><a class="app-list-link" href="{{ page.permalink | prepend: site.baseurl }}">{{ page.title }}</a></h3>
             <p>{{ page.subtitle }}</p>

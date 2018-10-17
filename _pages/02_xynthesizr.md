@@ -15,7 +15,7 @@ custom-stylesheet: xynthesizr.css
 ---
 
 {::nomarkdown}
-<img src="/assets/xynthesizr-screens.png" class="img-fluid d-block mx-auto mb-3" alt="Xynthesizr">
+<img src="/assets/xynthesizr-screens.png" data-rjs="2" class="img-fluid d-block mx-auto mb-3" alt="Xynthesizr">
 {:/}
 
 Create patterns and modify them in real time, or let Xynthesizr do it for you using its **morphing algorithms**. Change **scale** and **key**, or **transpose** within a scale on-the-fly. Tweak parameters of the **internal synthesizer** or output **MIDI** to your favorite apps and devices. Record and share your creations.
