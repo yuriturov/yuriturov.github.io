@@ -38,7 +38,7 @@ Create patterns and modify them in real time, or let Xynthesizr do it for you us
 ## Videos
 
 <div class="embed-responsive embed-responsive-4by3 mb-3">
-  <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/Z9qpdcRSDGg?list=PLJaQXsZjUetRLy6NflRma-tMqqFGblzw2" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Z9qpdcRSDGg?list=PLJaQXsZjUetRLy6NflRma-tMqqFGblzw2" allowfullscreen></iframe>
 </div>
 
 ## Features
@@ -47,7 +47,7 @@ Create patterns and modify them in real time, or let Xynthesizr do it for you us
 * **MIDI** support (including Virtual MIDI) for syncing and sending notes to synths, samplers and drum machines
 * **Notes to MIDI channel mapping** for driving multiple apps or devices simultaneously
 * **Ableton Link** support (see [ableton.com/link](https://www.ableton.com/link/) for more information)
-* **Audiobus 3** support (see [audiob.us](http://audiob.us) for more information)
+* **Audiobus 3** support (see [audiob.us](https://audiob.us) for more information)
 * Inter-App Audio support
 * 40+ bundled presets
 * Save your own **patterns and presets**
