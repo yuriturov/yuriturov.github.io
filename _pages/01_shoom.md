@@ -7,7 +7,7 @@ icon-small: /assets/shoom-icon-small.png
 icon-large: /assets/shoom-icon-large.png
 icon-large-square: /assets/shoom-icon-large-square.png
 preview-image: /assets/shoom-preview.jpg
-usermanual: /assets/ShoomUserGuide-1.1.pdf
+usermanual: /assets/ShoomUserGuide-1.2.pdf
 applink: https://itunes.apple.com/app/id1086363141?mt=8
 ableton-link-compatible: yes
 permalink: /shoom/
@@ -43,15 +43,17 @@ Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical s
 ### General features
 
 *	**Three** independent synthesizers
-*	**20–20,000 Hz** pitch range
+*	**8–20,000 Hz** pitch range
 *	Slide freely or snap notes to scale with adjustable glide rate
 *	Set notes to infinite hold using a dedicated toggle
 *	**Microtonal** and **non-octave repeating** scales support
-*	**MIDI CC** control and **clock** sync *(MIDI note input coming in a later update)*
-*	**Inter-App Audio** support
+*	**MIDI** note input (including **MPE**), CC control and clock sync
+*	Optional remapping of MIDI notes to the pitches of the selected scale
+*	**Bluetooth MIDI** support
+*	**Inter-App Audio** support with main mix and individual synth outputs
 *	**Audiobus 3** support (including Audiobus MIDI)
 *	**Ableton Link** support
-*	80+ bundled presets
+*	120+ bundled presets
 *	Import and export of presets and CC maps
 
 ### Synthesizer engine features
@@ -59,10 +61,12 @@ Shoom is an expressive XY pad synthesizer. Or, more precisely, three identical s
 *	Adjustable polyphony, up to 30 voices
 *	Two oscillators with 4 waveforms and PWM, and one noise generator
 *	Oscillator FM cross-modulation
-*	4 pole (24 dB/octave) resonant low pass filter with overdrive and pitch tracking
+*	4-pole (24 dB/octave) resonant low pass filter with overdrive and pitch tracking
 *	2 variable slope ADSR envelopes for amplitude and filter cutoff
 *	2 LFOs with 9 waveforms, up to 3 out of 12 simultaneously assignable parameters, trigger and global running modes, fade-in and phase controls
-*	Y axis position as modulation source with up to 3 of 15 simultaneously assignable parameters
+*	Y-axis position / MIDI CC#74 as modulation source with up to 3 of 15 simultaneously assignable parameters
+*	MIDI channel pressure / polyphonic aftertouch as modulation source with up to 3 of 15 simultaneously assignable parameters
+*	MIDI velocity modulation of amplitude and filter envelopes
 *	Note pan randomizer
 *	Built-in stereo delay and reverb effects
 
