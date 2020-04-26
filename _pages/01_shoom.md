@@ -1,7 +1,7 @@
 ---
 layout: app
 title: Shoom
-subtitle: "Full audio range triple-synth playground for iPad"
+subtitle: "MPE-compatible full audio range triple-synth playground for iPad"
 icon: /assets/shoom-icon.png
 icon-small: /assets/shoom-icon-small.png
 icon-large: /assets/shoom-icon-large.png
