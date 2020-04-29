@@ -7,7 +7,7 @@ icon-small: /assets/shoom-icon-small.png
 icon-large: /assets/shoom-icon-large.png
 icon-large-square: /assets/shoom-icon-large-square.png
 preview-image: /assets/shoom-preview.jpg
-usermanual: /assets/ShoomUserGuide-1.2.pdf
+usermanual: /assets/ShoomUserGuide-1.2.1.pdf
 applink: https://itunes.apple.com/app/id1086363141?mt=8
 ableton-link-compatible: yes
 permalink: /shoom/
