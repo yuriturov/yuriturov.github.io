@@ -1,6 +1,6 @@
 ---
 layout: app
-title: "Velvet&nbsp;Machine"
+title: "Velvet Machine"
 subtitle: "AUv3 enveloped velvet noise convolver to stretch, transform and make textures out of any sound (iPad, iPhone)"
 icon: /assets/velvet-machine-icon.png
 icon-small: /assets/velvet-machine-icon-small.png
