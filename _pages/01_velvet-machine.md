@@ -1,7 +1,7 @@
 ---
 layout: app
 title: "Velvet Machine"
-subtitle: "AUv3 enveloped velvet noise convolver to stretch, transform and make textures out of any sound (iPad, iPhone)"
+subtitle: "Sonic texture generator / blur / non-linear reverb based on velvet noise convolution (AUv3, iPad and iPhone)"
 icon: /assets/velvet-machine-icon.png
 icon-small: /assets/velvet-machine-icon-small.png
 icon-large: /assets/velvet-machine-icon-large.png
