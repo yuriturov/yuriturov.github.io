@@ -29,6 +29,12 @@ custom-stylesheet: velvet-machine.css
 
 Velvet Machine includes a functional standalone app, however it's mainly intended to be used as an AUv3 plugin app extension in a host app such as GarageBand, AUM, Cubasis and others. It does not support the now deprecated Inter-App Audio.
 
+## Videos
+
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLJaQXsZjUetTVt8CfUcFriHNh6LvGlnXy" allowfullscreen></iframe>
+</div>
+
 ## Features
 
 - Flexible volume envelope with arbitrary number of segments and curvature
@@ -39,9 +45,3 @@ Velvet Machine includes a functional standalone app, however it's mainly intende
 - Mix adjustable from 100% dry to 100% wet with no dry signal
 - Mix Lock to switch presets while keeping the dry/wet mix constant
 - 20+ factory presets to get you started
-
-## Videos
-
-<div class="embed-responsive embed-responsive-16by9 mb-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLJaQXsZjUetTVt8CfUcFriHNh6LvGlnXy" allowfullscreen></iframe>
-</div>
