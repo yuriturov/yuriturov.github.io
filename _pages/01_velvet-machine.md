@@ -25,7 +25,7 @@ custom-stylesheet: velvet-machine.css
 - Produce reverb-like textures with flexible volume envelope (including reverse, fading in and out, pulsating etc.)
 - Work as a variable density random multi-tap delay (bordering on granular-like sounds)
 
-> Note: Velvet Machine is a CPU-intensive effect. A *minimum* of 5th Gen iPad, iPhone 6s or 1st Gen iPhone SE is required to run a single instance at maximum settings. With shorter times and/or lower densities CPU use is proportionally lower, but can still be relatively high.
+> **Note:** Velvet Machine is a CPU-intensive effect. A *minimum* of 5th Gen iPad, iPhone 6s or 1st Gen iPhone SE is required to run a single instance at maximum settings. With shorter times and/or lower densities CPU use is proportionally lower, but can still be relatively high.
 
 Velvet Machine includes a functional standalone app, however it's mainly intended to be used as an AUv3 plugin app extension in a host app such as GarageBand, AUM, Cubasis and others. It does not support the now deprecated Inter-App Audio.
 
