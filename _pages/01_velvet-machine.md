@@ -8,7 +8,7 @@ icon-large: /assets/velvet-machine-icon-large.png
 icon-large-square: /assets/velvet-machine-icon-large-square.png
 preview-image: /assets/shoom-preview.jpg
 usermanual: /assets/VelvetMachineUserGuide-1.0.0.pdf
-# applink: https://apps.apple.com/us/app/shoom-synthesizer/id1534554750
+applink: https://apps.apple.com/app/id1534554750
 au-compatible: yes
 permalink: /velvet-machine/
 custom-stylesheet: velvet-machine.css
