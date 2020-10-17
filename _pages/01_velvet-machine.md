@@ -14,8 +14,6 @@ permalink: /velvet-machine/
 custom-stylesheet: velvet-machine.css
 ---
 
-**Coming soon to the App Store...**
-
 {::nomarkdown}
 <img src="/assets/velvet-machine-screen.png" data-rjs="2" class="img-fluid d-block mx-auto mb-3" alt="Velvet Machine">
 {:/}
