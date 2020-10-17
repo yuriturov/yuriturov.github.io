@@ -43,3 +43,7 @@ Velvet Machine includes a functional standalone app, however it's mainly intende
 - Mix adjustable from 100% dry to 100% wet with no dry signal
 - Mix Lock to switch presets while keeping the dry/wet mix constant
 - 20+ factory presets to get you started
+
+## Mentions
+
+* [Gavinski's Tutorials](https://youtu.be/j49SR6Tr_vI){:target="_blank"} video demo/walkthrough
