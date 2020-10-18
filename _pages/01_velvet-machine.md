@@ -47,3 +47,7 @@ Velvet Machine includes a functional standalone app, however it's mainly intende
 ## Mentions
 
 * [Gavinski's Tutorials](https://youtu.be/j49SR6Tr_vI){:target="_blank"} video demo/walkthrough
+* [The Sound Test Room](https://youtu.be/A8ahynTH4Tg){:target="_blank"} video demo
+* [Discchord](https://discchord.com/appnews/2020/10/17/velvet-machine-by-yuri-turov){:target="_blank"}
+* [KVR Audio](https://www.kvraudio.com/news/yuri-turov-launches-velvet-machine---auv3-sonic-texture-generator-for-ipad-and-iphone-49912){:target="_blank"}
+* [Synth Anatomy](https://www.synthanatomy.com/2020/10/velvet-machine-new-auv3-real-time-convolution-based-sonic-texture-generator.html){:target="_blank"}
