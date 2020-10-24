@@ -46,8 +46,13 @@ Velvet Machine includes a functional standalone app, however it's mainly intende
 
 ## Mentions
 
-* [Gavinski's Tutorials](https://youtu.be/j49SR6Tr_vI){:target="_blank"} video demo/walkthrough
-* [The Sound Test Room](https://youtu.be/A8ahynTH4Tg){:target="_blank"} video demo
+* [Red Sky Lullaby](https://youtu.be/-5Gi6MAHT-g){:target="_blank"} demo
+* [Gavinski's Tutorials](https://youtu.be/j49SR6Tr_vI){:target="_blank"} demo/walkthrough
+* [The Sound Test Room](https://youtu.be/A8ahynTH4Tg){:target="_blank"} demo
+* [Perplex On](https://youtu.be/BB8wCaXCPyY) video
+* [Synthtopia](https://www.synthtopia.com/content/2020/10/19/velvet-machine-brings-convolution-fairy-dust-to-your-ipad/){:target="_blank"}
 * [Discchord](https://discchord.com/appnews/2020/10/17/velvet-machine-by-yuri-turov){:target="_blank"}
+* [Rekkerd.org](https://rekkerd.org/stretch-and-blur-your-sound-with-the-velvet-machine-app-for-ios-auv3/){:target="_blank"}
+* [SonicState.com](https://sonicstate.com/news/2020/10/20/-sonic-texture-generator-for-iphone-and-ipad/){:target="_blank"}
 * [KVR Audio](https://www.kvraudio.com/news/yuri-turov-launches-velvet-machine---auv3-sonic-texture-generator-for-ipad-and-iphone-49912){:target="_blank"}
 * [Synth Anatomy](https://www.synthanatomy.com/2020/10/velvet-machine-new-auv3-real-time-convolution-based-sonic-texture-generator.html){:target="_blank"}
