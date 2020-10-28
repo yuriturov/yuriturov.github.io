@@ -6,7 +6,7 @@ icon: /assets/velvet-machine-icon.png
 icon-small: /assets/velvet-machine-icon-small.png
 icon-large: /assets/velvet-machine-icon-large.png
 icon-large-square: /assets/velvet-machine-icon-large-square.png
-preview-image: /assets/shoom-preview.jpg
+preview-image: /assets/velvet-machine-preview.png
 usermanual: /assets/VelvetMachineUserGuide-1.0.0.pdf
 applink: https://apps.apple.com/app/id1534554750
 au-compatible: yes
