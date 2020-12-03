@@ -18,7 +18,7 @@ custom-stylesheet: velvet-machine.css
 <img src="/assets/velvet-machine-screen.png" data-rjs="2" class="img-fluid d-block mx-auto mb-3" alt="Velvet Machine">
 {:/}
 
-**Velvet Machine** is a unique audio effect based on real-time convolution with enveloped velvet noise. Here is what it can do:
+**Velvet Machine** is an audio effect based on real-time convolution with enveloped velvet noise. Here is what it can do:
 - Stretch and blur out even short sounds to lengths of up to 10 seconds
 - Produce reverb-like textures with flexible volume envelope (including reverse, fading in and out, pulsating etc.)
 - Work as a variable density random multi-tap delay (bordering on granular-like sounds)
