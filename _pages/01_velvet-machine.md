@@ -49,7 +49,9 @@ Velvet Machine includes a functional standalone app, however it's mainly intende
 * [Red Sky Lullaby](https://youtu.be/-5Gi6MAHT-g){:target="_blank"} demo
 * [Gavinski's Tutorials](https://youtu.be/j49SR6Tr_vI){:target="_blank"} demo/walkthrough
 * [The Sound Test Room](https://youtu.be/A8ahynTH4Tg){:target="_blank"} demo
-* [Perplex On](https://youtu.be/BB8wCaXCPyY) video
+* [Perplex On](https://youtu.be/BB8wCaXCPyY){:target="_blank"} video
+* [Fretless33](https://youtu.be/r_4jN341i4o){:target="_blank"} demo w/ bass guitar
+* [José Osório de Souza](https://youtu.be/dxc5T6eVTtg){:target="_blank"} demo
 * [Synthtopia](https://www.synthtopia.com/content/2020/10/19/velvet-machine-brings-convolution-fairy-dust-to-your-ipad/){:target="_blank"}
 * [Discchord](https://discchord.com/appnews/2020/10/17/velvet-machine-by-yuri-turov){:target="_blank"}
 * [Rekkerd.org](https://rekkerd.org/stretch-and-blur-your-sound-with-the-velvet-machine-app-for-ios-auv3/){:target="_blank"}
