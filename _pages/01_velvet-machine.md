@@ -7,7 +7,7 @@ icon-small: /assets/velvet-machine-icon-small.png
 icon-large: /assets/velvet-machine-icon-large.png
 icon-large-square: /assets/velvet-machine-icon-large-square.png
 preview-image: /assets/velvet-machine-preview.png
-usermanual: /assets/VelvetMachineUserGuide-1.0.0.pdf
+usermanual: /assets/VelvetMachineUserGuide-1.1.0.pdf
 applink: https://apps.apple.com/app/id1534554750
 au-compatible: yes
 permalink: /velvet-machine/
@@ -36,9 +36,10 @@ Velvet Machine includes a functional standalone app, however it's mainly intende
 ## Features
 
 - Flexible volume envelope with arbitrary number of segments and curvature
-- Effect time ranging from 100 ms to 10 s
+- Effect time ranging from 50 ms to 10 s
 - Response density adjustable from 1 to 2000 repeats per second
-- Predelay up to 500 ms
+- Predelay up to 1 s
+- Host tempo sync for time and predelay parameters
 - High cut and low cut filters for the effected signal
 - Mix adjustable from 100% dry to 100% wet with no dry signal
 - Mix Lock to switch presets while keeping the dry/wet mix constant
