@@ -1,4 +1,6 @@
 ---
+redirect-path: products/shoom
+
 layout: app
 title: Shoom
 subtitle: "MPE-compatible full audio range triple-synth playground for iPad"

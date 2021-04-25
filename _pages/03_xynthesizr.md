@@ -1,4 +1,6 @@
 ---
+redirect-path: products/xynthesizr
+
 layout: app
 title: Xynthesizr
 subtitle: "Streamlined yet capable 32-step <strong>matrix pattern sequencer/synthesizer</strong> with <strong>generative features</strong> for iPad and iPhone"

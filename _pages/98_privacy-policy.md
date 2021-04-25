@@ -1,4 +1,6 @@
 ---
+redirect-path: privacy-policy
+
 layout: page
 title: Privacy Policy
 permalink: /privacy-policy/

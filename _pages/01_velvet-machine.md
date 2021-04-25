@@ -1,4 +1,6 @@
 ---
+redirect-path: products/velvet-machine
+
 layout: app
 title: "Velvet Machine"
 subtitle: "Sonic texture generator / blur / non-linear reverb based on velvet noise convolution (AUv3, iPad and iPhone)"

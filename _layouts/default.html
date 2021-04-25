@@ -2,10 +2,12 @@
 <html>
   {% include head.html %}
   <body>
-    {% include header.html %}
-    <div class="container pt-4 pb-2">
-        {{ content }}
+    <div class="p-4 d-flex flex-column justify-content-center align-items-center text-center" style="min-height: 100vh;">
+      <p style="font-size: 2rem; line-height: 1.125;">Yuri&nbsp;Turov Music&nbsp;Apps is&nbsp;now <strong>Phonolyth</strong></p>
+      <p style="font-size: 1.5rem;">Redirecting you to the new site...</p>
+      <p style="font-size: 1.25rem;">If this doesn't work, please use the link below:<br>
+        <a href="{{ site.redirect-url }}{% if page.redirect-path %}/{{ page.redirect-path }}{% endif %}">Go to Phonolyth website</a>
+      </p>
     </div>
-    {% include footer.html %}
   </body>
 </html>
